@@ -1,0 +1,7 @@
+id = "joyboy-zed-theme"
+name = "JoyBoy Zed Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Aditya Kumar Prasad <adityaprasad1828@gmail.com>"]
+description = "JoyBoy theme extension for Zed"
+repository = " https://github.com/AdityaP183/joyboy-zed"
