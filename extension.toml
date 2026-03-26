@@ -1,5 +1,5 @@
-id = "joyboy-zed"
-name = "JoyBoy Zed"
+id = "joyboy-theme"
+name = "JoyBoy Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Aditya Kumar Prasad <adityaprasad1828@gmail.com>"]
